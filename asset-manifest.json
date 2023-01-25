@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iPod-Mini-Project/static/css/main.4a229958.css",
+    "main.js": "/iPod-Mini-Project/static/js/main.51fd11e9.js",
+    "static/media/pexels-moose-photos-1037992.jpg": "/iPod-Mini-Project/static/media/pexels-moose-photos-1037992.c97910b8680ac0ce49c5.jpg",
+    "static/media/sg.webp": "/iPod-Mini-Project/static/media/sg.eafdccf8c4bdc29a6f4a.webp",
+    "index.html": "/iPod-Mini-Project/index.html",
+    "main.4a229958.css.map": "/iPod-Mini-Project/static/css/main.4a229958.css.map",
+    "main.51fd11e9.js.map": "/iPod-Mini-Project/static/js/main.51fd11e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a229958.css",
+    "static/js/main.51fd11e9.js"
+  ]
+}
